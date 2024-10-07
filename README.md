@@ -1,6 +1,6 @@
 # Autogluon_Part1
 
-
+YouTube Link for this Colab - https://www.youtube.com/watch?v=G63dK9HF0yI
 
 This repository contains a series of Jupyter notebooks showcasing various applications of AutoGluon for tabular prediction tasks, including fraud detection, multimodal data processing, and automatic feature engineering. The goal of these notebooks is to demonstrate the power and simplicity of AutoGluon, allowing users to quickly build machine learning models with minimal effort.
 
